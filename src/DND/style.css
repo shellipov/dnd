@@ -1,0 +1,19 @@
+.card_container{
+    border: 1px solid black;
+    border-radius: 2rem;
+    padding: 1rem;
+}
+
+.card_item {
+    background-color: white;
+    border-radius: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+    cursor: grab;
+}
+
+.card_name{
+    text-align: center;
+    padding: 1rem;
+}
